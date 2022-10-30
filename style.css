@@ -1,0 +1,42 @@
+.header {
+    background-image: url(./Resources/CSS/pattern.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    display: block;
+}
+
+#brush {
+    background-color: mediumspringgreen;
+}
+
+#Frame {
+    background-color: lightcoral;
+}
+
+#Paint {
+    background-color: skyblue;
+}
+
+.item h2 {
+    color: white;
+    font-size: 32px;
+}
+
+.price {
+    color: blue;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
